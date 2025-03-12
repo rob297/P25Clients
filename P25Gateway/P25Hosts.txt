@@ -342,6 +342,9 @@
 # 8210 Ohio Valley
 8210	reflector.kd8tnv.com	41000
 
+#  8610 CRHRC P25 Relector
+8610  vpn.crhrc.org  41000
+
 # 9050 East Coast Reflector
 9050	45.77.198.235	41000
 
